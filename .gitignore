@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Data (never commit conversation data)
+data/
+conversation*.json
+chat*.json
+dialogue*.json
+conversations/
+logs/
+
+# API Keys
+.env
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.swp
+.cache/

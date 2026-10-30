@@ -1,0 +1,26 @@
+{
+  "name": "critical-perspectives",
+  "version": "1.0.0",
+  "description": "A multi-agent system where AI agents with different perspectives engage in structured conversations and debates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet - this is a concept project\" && exit 0"
+  },
+  "keywords": [
+    "multi-agent",
+    "ai",
+    "debate",
+    "critical-thinking",
+    "perspectives",
+    "conversation",
+    "agent-system",
+    "dialogue",
+    "analysis"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swathiGanti392/critical-perspectives"
+  }
+}
